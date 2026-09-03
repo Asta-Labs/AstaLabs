@@ -2,9 +2,9 @@ Asta Labs
 
 ## [ ASTA LABS ]
 
-│  [ SYSTEM ] Independent Research Lab                       
-│  [ STATUS ] ONLINE                                         
-│  [ MODE   ] BUILD / BREAK / RESEARCH                       
+[ SYSTEM ] Independent Research Lab                       
+[ STATUS ] ONLINE                                         
+[ MODE   ] BUILD / BREAK / RESEARCH                       
 
 $ ./initialize_asta_labs
 

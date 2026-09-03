@@ -1,19 +1,10 @@
 Asta Labs
 
-┌──[ ASTA LABS ]──────────────────────────────────────────────┐
-│                                                             │
-│  █████╗ ███████╗████████╗ █████╗                           │
-│ ██╔══██╗██╔════╝╚══██╔══╝██╔══██╗                          │
-│ ███████║███████╗   ██║   ███████║                          │
-│ ██╔══██║╚════██║   ██║   ██╔══██║                          │
-│ ██║  ██║███████║   ██║   ██║  ██║                          │
-│ ╚═╝  ╚═╝╚══════╝   ╚═╝   ╚═╝  ╚═╝                          │
-│                                                             │
-│  [ SYSTEM ] Independent Research Lab                       │
-│  [ STATUS ] ONLINE                                          │
-│  [ MODE   ] BUILD / BREAK / RESEARCH                        │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
+#[ ASTA LABS ]
+
+│  [ SYSTEM ] Independent Research Lab                       
+│  [ STATUS ] ONLINE                                         
+│  [ MODE   ] BUILD / BREAK / RESEARCH                       
 
 $ ./initialize_asta_labs
 

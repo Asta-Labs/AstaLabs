@@ -1,6 +1,6 @@
 Asta Labs
 
-#[ ASTA LABS ]
+## [ ASTA LABS ]
 
 │  [ SYSTEM ] Independent Research Lab                       
 │  [ STATUS ] ONLINE                                         
